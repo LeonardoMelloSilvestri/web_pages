@@ -1,0 +1,39 @@
+.container{
+	margin: 0 auto;
+	width: 960px;
+}
+h1, h2{
+	font-family: cursive;
+	color: gray;
+	text-shadow: 2px 1px black;
+	margin-top: 0px;
+}
+.place{
+	float: left;
+	width: 700px;
+	border: 2px solid gray;
+	margin-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+.main-title{
+	font-size: 30px;
+	font-family: cursive;
+}
+a{
+	text-decoration: none;
+	padding-left: 90%;
+}
+img{
+	border: 2px solid gray;
+	height: 150px;
+	width: 150px;
+	margin-right: 10px;
+	float: left;
+}
+.warning{
+	height: 270px;
+	width: 190px;
+	border: 2px solid gray;
+	float: right;
+}
