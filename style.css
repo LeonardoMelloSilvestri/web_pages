@@ -1,3 +1,7 @@
+* {
+	margin: auto;
+}
+
 .container{
 	margin: 0 auto;
 	width: 960px;
@@ -12,6 +16,7 @@ h1, h2{
 	float: left;
 	border: 2px solid gray;
 	padding: 5px;
+	margin-top: 10px;
 	margin-bottom: 5px;
 	width: 640px;
 }
@@ -48,3 +53,14 @@ img{
 	font-size: 12px;
 }
 
+.footer {
+	width: 100%;
+	display: block;
+	background-color: gray;
+	height: 86px;
+	text-align: center;
+	padding-top: 21px;
+	color: white;
+	bottom: 0;
+	position: fixed;
+}
